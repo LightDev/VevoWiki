@@ -3,7 +3,7 @@ package test;
 import java.util.List;
 
 import service.YouTubeManager;
-import com.javacodegeeks.youtube.model.YouTubeVideo;
+import model.YouTubeVideo;
 
 public class YouTubeTester {
 
